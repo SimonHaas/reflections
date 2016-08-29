@@ -1,0 +1,41 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+	When I have two files, one is working and one is not, I can find the bug buy finding 
+	the differences between the two files.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	You will be able to see easily which changes in the code are responsible for 
+	which actions in the program. So you will understand your code much better.
+
+What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	pros: you have more control, which is naturally a good thing
+		you know when you have commited and you have an overview of the history in your head
+		no uncompileable versions will be saved automatically
+	cons: your commits might get to big or to small
+		maybe you don't know how to make a commit
+
+Why do you think some version control systems, like Git, allow saving multiple files 
+in one commit, while others, like Google Docs, treat each file separately?
+
+	Multiple files are involved developing an android app. So it only makes sense 
+	to save all files of a project when doing a commit. Otherwise, if git couldn't 
+	save multiple files, the files probaly won't work together as supposed.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	git log shows me all the commits in a repository with a little description of 
+		the changes. It gives me an overview of the states I can revert to.
+	git diff shows me the exaxt differences between two commit, providing the commit ids.
+
+How might using version control make you more confident to make changes that could break something?
+
+	With version control I can experiment a lot more. It allowes me to easily go 
+	back to any state of coding I want, provided I commited regularly.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I might try it on my personal website to keep track of the different versions. Besides coding I have another use for it. It could be helpful to keep track of my various bill-spreadsheets.
+
