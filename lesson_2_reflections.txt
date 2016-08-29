@@ -9,3 +9,9 @@ How is the staging area different from the working directory and the repository?
 	the advantage of now having to save every single file. Maybe media resources 
 	in an android app don't have to be saved because the will never change. So 
 	by not saving these you can save a lot of storrage.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	I can view the exact files I'm going to commit and compare it to the most recent 
+	commit or the working directory to double check saving the right changes.
+
