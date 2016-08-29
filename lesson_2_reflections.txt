@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Git creates a hidden directory to store commits and the information it needs.
+	I need to do this in order to be able to use git on this folder.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	In the staging area are the files which are going to be commited. It gives you 
+	the advantage of now having to save every single file. Maybe media resources 
+	in an android app don't have to be saved because the will never change. So 
+	by not saving these you can save a lot of storrage.
