@@ -15,3 +15,20 @@ How can you use the staging area to make sure you have one commit per logical ch
 	I can view the exact files I'm going to commit and compare it to the most recent 
 	commit or the working directory to double check saving the right changes.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	It is helpful to create a branch when you want to make a different version of your project. 
+	You can implement a special feature for a unique country or to make the design 
+	work better with an uncommon language. 
+	A branch helps you to manage this different but all 'right' versions of your project.
+
+How do the diagrams help you visualize the branch structure?
+
+	It shows me an overview of the structure of my commits. I can easily see when there is a new branch and which commits are unreachable.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Merging two branches means to create a commit with all the bugfixes and new 
+	features of the two old branches combined. We represent it the way we do because 
+	we combine the two branches to one branch.
+
