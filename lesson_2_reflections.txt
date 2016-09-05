@@ -32,3 +32,8 @@ What is the result of merging two branches together? Why do we represent it in t
 	features of the two old branches combined. We represent it the way we do because 
 	we combine the two branches to one branch.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	pros: automatic merging is faster and easier to use
+	cons: sometimes merge conflicts occure and you have to do it manually anyway
+
