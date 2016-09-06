@@ -21,3 +21,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	It would be very hard to share the code via email once you made a significant change. An easier way would be 
 	to share your code via dropbox.
 	
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	When making changes in the master branche you do not have to deal with merging and so on but it is more risky 
+	due to breaking the funktionalitie of your master branch. 
+	
